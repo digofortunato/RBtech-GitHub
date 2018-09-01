@@ -81,4 +81,8 @@ git reset HEAD nomedoarquivo.txt
 git  checkout -- <arquivo>
 
 
+*****Removendo Arquivos da Area de Trabalho****
+
+git rm <nomeDoArquivo>
+
 
