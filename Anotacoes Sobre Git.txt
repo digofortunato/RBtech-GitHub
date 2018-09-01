@@ -61,4 +61,8 @@ gitk
 
 
 
-****Anotação*****
+****Como editar O último commit realizado*****
+
+git commit --amend -m "Editar um commit realizado(Editado)"
+
+
