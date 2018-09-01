@@ -1,0 +1,26 @@
+Anotações sobre o Git
+
+
+*****Inicializando um repositório*****
+git init
+
+
+git status
+
+
+
+*****Configurando Usuario de Email*****
+
+git config --global user.email "digofortuna@gmail.com"
+
+git config --global user.name "digofortunato"
+
+
+git config user.email "digofortuna@gmail.com"
+
+git config user.name "digofortunato"
+
+
+git config user.email "rodrigo.fortunato@wooza.com.br"
+
+git config user.name "rodrigo.fortunato@wooza.com.br"
