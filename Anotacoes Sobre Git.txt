@@ -66,3 +66,12 @@ gitk
 git commit --amend -m "Editar um commit realizado(Editado)"
 
 
+
+
+
+*****Retirar uma arquivo da Staged Area *****
+
+git reset HEAD nomedoarquivo.txt
+
+
+
