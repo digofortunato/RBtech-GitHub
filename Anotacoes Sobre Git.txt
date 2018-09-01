@@ -52,3 +52,7 @@ git log -p
 git log -p -1
 
 
+*****Visualizador de Relatorio de alterações GIT *****
+
+gitk
+
