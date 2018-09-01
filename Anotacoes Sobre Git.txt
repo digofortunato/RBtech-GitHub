@@ -46,4 +46,9 @@ git log
 
 git log --oneline
 
+**Informações com o que alterado
 git log -p
+
+git log -p -1
+
+
