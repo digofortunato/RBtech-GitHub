@@ -4,7 +4,6 @@ Anotações sobre o Git
 *****Inicializando um repositório*****
 git init
 
-
 git status
 
 
@@ -46,13 +45,20 @@ git log
 
 git log --oneline
 
+git log --pretty=oneline
+
 **Informações com o que alterado
 git log -p
 
 git log -p -1
 
 
+
+
 *****Visualizador de Relatorio de alterações GIT *****
 
 gitk
 
+
+
+****Anotação*****
