@@ -75,3 +75,10 @@ git reset HEAD nomedoarquivo.txt
 
 
 
+
+
+*****Discartando as mudanças no seu diretorio de trabalho(Desfazendo as alterações)*****
+git  checkout -- <arquivo>
+
+
+
