@@ -36,3 +36,14 @@ git diff
 
 **Alteração do Staged Area**
 git diff --staged
+
+
+
+
+*****Sobre o Git Log*****
+
+git log 
+
+git log --oneline
+
+git log -p
