@@ -24,3 +24,15 @@ git config user.name "digofortunato"
 git config user.email "rodrigo.fortunato@wooza.com.br"
 
 git config user.name "rodrigo.fortunato@wooza.com.br"
+
+
+
+
+
+***** O que foi alterado dentro de um Arquivo*****
+
+**Alteração**
+git diff
+
+**Alteração do Staged Area**
+git diff --staged
